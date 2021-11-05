@@ -1,0 +1,6 @@
+23:51:52 :- elif "show" in query and "note" in query:
+        speak("Showing Notes")
+        msg("Showing Notes")
+        file = open(str(file_names), "r")
+        msg(file.read())
+        speak(file.read())

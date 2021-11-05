@@ -1,0 +1,28 @@
+Activate Dude
+    1. [value] wikipedia
+    2. open youtube
+    3. open google
+    4. open vs code
+    5. tell me a joke
+    6. quit dude
+    7. weather of [value]
+    8. calculate [value]
+    9. search for [value]
+    10. who are you
+    11. how are you
+    12. i am fine/good
+    13. play video on [value]
+    14. play song
+    15. track my phone
+    16. message
+    17. please wait
+    18. sleep
+    19. date/day
+    20. time
+    21. send email
+    22. change voice
+    23. change background
+    24. screen record
+    25. write a note
+    26. open file
+    27. news
